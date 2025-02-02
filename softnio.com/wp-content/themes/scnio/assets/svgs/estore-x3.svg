@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="nio-x7" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="108px" viewBox="0 0 144 108" enable-background="new 0 0 144 108" xml:space="preserve">
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M101.438,86.5h10 M106.438,81.5v10"/>
+	<path opacity="0.7" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M26,30.5h7 M29.5,27v7"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M14.438,15c0,1.381-1.119,2.5-2.5,2.5	s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S14.438,13.619,14.438,15z"/>
+	<circle opacity="0.5" fill="#00FFFF" cx="133.438" cy="74.5" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M20.438,85c0,1.381-1.119,2.5-2.5,2.5	s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S20.438,83.619,20.438,85z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M5.438,96.5h54"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="15,5,100" d="M94.438,96.5h41"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,65,5,15" d="M42.438,102.5h96.5"/>
+	<circle opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="72.438" cy="22.5" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M116.438,61.5c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S116.438,60.396,116.438,61.5z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M101.438,7.5c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S101.438,6.396,101.438,7.5z"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M103.16,30.03 c0.107-4.293,3.754-4.53,3.754-4.53c1.166-8.372,8.502-4.529,8.502-4.529c1.469-4.144,5.696-3.969,5.696-3.969
+		c6.841,0.108,5.954,6.73,5.954,6.73c4.66,0.691,4.66,5.352,4.66,5.352c-0.431,4.575-5.092,4.917-5.092,4.917H108.34	C102.645,34,103.16,30.03,103.16,30.03z"/>
+	<path opacity="0.15" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M103.105,28.886H96.34	 c-4.281,0-3.894-2.983-3.894-2.983c0.081-3.225,2.823-3.403,2.823-3.403c0.873-6.292,6.387-3.403,6.387-3.403 c1.104-3.113,4.28-2.982,4.28-2.982c5.14,0.081,4.473,5.056,4.473,5.056"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M35.081,69H15.982 c-4.351-1.25-4.188-5.77-4.188-5.77c0.198-5.87,4.849-6.017,4.849-6.017c-0.074-4.368,1.909-6.264,1.909-6.264
+		c3.679-4.18,8.301-1.072,8.669-1.072c2.799-6.608,7.859-5.851,7.859-5.851"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M27,15.5h8 M126,47.5h8 M47,26.5h8 M83,14.5h8 M5,76.5 h8"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="36,81 36,37 100,37 100,81 "/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="36" y1="46" x2="101" y2="46"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="41.5,71 41.5,49.5 77,49.5 "/>
+	<path fill="none" stroke="#808184" stroke-miterlimit="10" d="M77.438,70"/>
+	<rect x="82" y="50" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="12" height="7"/>
+	<rect x="82" y="60" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="12" height="7"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="94" y1="70" x2="94" y2="78"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M82.438,69"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="41" y1="73.5" x2="63" y2="73.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="41" y1="76.5" x2="61" y2="76.5"/>
+	<circle fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="43.438" cy="40.5" r="2"/>
+	<circle fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="49.438" cy="40.5" r="2"/>
+	<circle fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="55.438" cy="40.5" r="2"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="41" y1="70.5" x2="66" y2="70.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="76.5" y1="49" x2="76.5" y2="67"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="35" y1="81" x2="60" y2="81"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="101" y1="81" x2="90" y2="81"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="95" y1="77" x2="89" y2="77"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="95.438" y1="70.5" x2="85.438" y2="70.5"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M75.542,66.834c-0.871,0-1.72,0.09-2.551,0.229	c-0.753-0.701-5.432-5.02-6.887-5.479c0,0,1.425,5.089,2.192,7.059c-4.873,2.595-8.192,7.722-8.192,13.629
+	c0,8.526,6.911,15.438,15.438,15.438s15.438-6.911,15.438-15.438S84.068,66.834,75.542,66.834z"/>
+	<rect x="45.5" y="53.5" fill="none" stroke="#FFFFFF" stroke-miterlimit="10" width="10" height="9"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="58" y1="53.5" x2="73" y2="53.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="58" y1="55.5" x2="73" y2="55.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="58" y1="57.5" x2="73" y2="57.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="58" y1="59.5" x2="73" y2="59.5"/>
+	<polyline fill="none" stroke="#00FFFF" stroke-miterlimit="10" points="72.031,88.344 67.875,76 67.793,75.998 63.637,75.998 "/>
+	<line fill="none" stroke="#00FFFF" stroke-miterlimit="10" x1="74.438" y1="90.031" x2="86.75" y2="86.313"/>
+	<circle fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="72.438" cy="90.5" r="2"/>
+	<rect x="73.515" y="76.577" transform="matrix(0.9512 -0.3085 0.3085 0.9512 -21.187 27.9945)" fill="none" stroke="#00FFFF" stroke-miterlimit="10" width="8.844" height="8.846"/>
+</svg>

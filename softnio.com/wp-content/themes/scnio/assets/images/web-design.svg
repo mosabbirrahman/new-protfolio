@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="niodesign" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
+<line fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" x1="46" y1="18" x2="182" y2="18"/>
+	<path fill="#E3E3E3" d="M162,127v48h-6v-48H162 M164,125h-10v52h10V125L164,125z"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M161.781,189.829 c-0.814,0.78-1.757,1.171-2.83,1.171s-2-0.391-2.78-1.171C155.39,189.049,155,188.106,155,187v-4h8v4 C163,188.106,162.594,189.049,161.781,189.829L161.781,189.829z M161.781,189.829"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M158.952,112l4.048,8h-8L158.952,112z M158.952,112"/>
+<path fill="none" stroke="#009FE3" stroke-width="2" stroke-miterlimit="10" d="M15,10v12 M21,16H9"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M31,34v10 M36,39H26"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M20,50v10 M25,55H15"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M46,2h135.047 M164,167.998h17.047 M182,1v168 M44.999,1v111 M44.001,168h109.995 M45,150v17.125"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M11,113h76 M11,149h76 M86,114v34 M12,114v34"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M19,122h20 M19,140h20 M38,123v16 M20,123v16"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M47,122h28 M47,127h24"/>
+<path fill="none" stroke="#009FE3" stroke-width="2" stroke-miterlimit="10" d="M53,137c0,1.657-1.343,3-3,3s-3-1.343-3-3 s1.343-3,3-3S53,135.343,53,137z M60,134c-1.657,0-3,1.343-3,3s1.343,3,3,3s3-1.343,3-3S61.657,134,60,134z M70,134 c-1.657,0-3,1.343-3,3s1.343,3,3,3s3-1.343,3-3S71.657,134,70,134z"/>
+<path fill="none" stroke="#E3E3E3" stroke-width="2" stroke-miterlimit="10" d="M61.189,34H69 M73,34h9 M87,34h14 M105,34h14 M124,34h9 M138,34h14 M155,34h7"/>
+<path fill="none" stroke="#009FE3" stroke-width="2" stroke-miterlimit="10" d="M61,47h8 M74,47h15 M94,47h20 M119,47h8 M132,47h15 M152,47h11"/>
+<path fill="none" stroke="#009FE3" stroke-width="2" stroke-miterlimit="10" d="M61,60h20 M86,60h10 M101,60h12 M118,60h20 M143,60 h8"/>
+<path fill="none" stroke="#E5E4E6" stroke-width="2" stroke-miterlimit="10" d="M61,72h13 M79,72h11 M95,72h33 M133,72h11 M149,72 h13"/>
+<path fill="none" stroke="#E5E4E6" stroke-width="2" stroke-miterlimit="10" d="M61,85h7 M75,85h16 M98,85h16 M121,85h16 M143,85h8" />
+</svg>

@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+softnio.com	TRUE	/	FALSE	1999999999	__wpdm_client	5ecfc80397f83d3b07066ba98733132d
+

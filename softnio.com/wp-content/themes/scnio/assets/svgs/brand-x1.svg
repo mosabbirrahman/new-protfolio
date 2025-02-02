@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="nio-x1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="108px" viewBox="0 0 144 108" enable-background="new 0 0 144 108" xml:space="preserve">
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M17.5,86h10 M22.5,81 v10"/>
+	<path opacity="0.7" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M12,28.5h7 M15.5,25v7"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M97.5,67h10 M102.5,62 v10"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M41.5,67c0,1.381-1.119,2.5-2.5,2.5 s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S41.5,65.619,41.5,67z"/>
+	<circle opacity="0.5" fill="#00FFFF" cx="37.5" cy="11" r="2.5"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M125.5,16.5c0,1.381-1.119,2.5-2.5,2.5 s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S125.5,15.119,125.5,16.5z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M4.5,95h43"/>	
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,65,5,10" d="M49.5,102h90"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M12.5,75c0,1.105-0.896,2-2,2s-2-0.895-2-2 c0-1.104,0.896-2,2-2S12.5,73.896,12.5,75z"/>
+	<circle opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="95.5" cy="96" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-linecap="round" stroke-miterlimit="10" d="M115.617,23.839l-8.226,10.628 M106.5,28.627L114.728,18"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-linecap="round" stroke-miterlimit="10" d="M26.5,23.839l8.226,10.628 M35.617,28.627L27.39,18"/>
+	<polygon opacity="0.4" fill="#00FFFF" points="135.293,73 136.374,75.191 138.793,75.543 137.043,77.248 137.456,79.657 135.293,78.52 133.13,79.657 133.543,77.248 131.793,75.543 134.212,75.191 	"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M9.5,8c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2 S9.5,6.896,9.5,8z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M126.5,57c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S126.5,55.896,126.5,57z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M138.5,35c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S138.5,33.896,138.5,35z"/>
+	<path opacity="0.1" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5" d="M110.281,41.054c13.639,26.683-4.33,48.925-4.33,48.925 M34.823,89.979c0,0-17.97-22.242-4.331-48.925 M42.5,24.756 c0,0,28.703-23.991,59,0.891"/>	
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M101.5,95h36"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M47,62v28 M44,89h22 M44,85h22 M44,80h22 M44,75h22 M53,65v11 M59,65v11 M53,89v5 M52,93h9 M60,93v-4 M65,63v27"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="3" stroke-miterlimit="10" d="M70.5,39v2 M70.5,43v2 M70.5,47v2"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M78.283,44.017c0,11.263-9.13,20.392-20.392,20.392	c-11.264,0-20.392-9.129-20.392-20.392c0-11.262,9.128-20.392,20.392-20.392C69.153,23.625,78.283,32.755,78.283,44.017z M63.337,44.017c0,11.263,9.131,20.392,20.392,20.392c11.263,0,20.392-9.129,20.392-20.392c0-11.262-9.129-20.392-20.392-20.392	C72.468,23.625,63.337,32.755,63.337,44.017z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M90,63v27 M93,89H72 M93,85H73 M93,80H73 M93,75H73	 M84,65v11 M79,65v11 M84,89v5 M85,93h-8 M78,94v-5 M73,62v28"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M55.265,56.875c-0.995-0.38-6.834-2.066-8.693-9.667 c-1.83-11.704,8.693-14.985,8.693-14.985 M86.354,56.875c0.996-0.38,6.835-2.066,8.694-9.667c1.83-11.704-8.694-14.985-8.694-14.985	"/>
+</svg>

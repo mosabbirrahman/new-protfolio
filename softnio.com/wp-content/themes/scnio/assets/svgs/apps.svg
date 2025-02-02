@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="nioapps" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
+<line data-async="" data-duration="20" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" x1="53" y1="27.998" x2="33" y2="48.998"/>
+<line data-async="" data-duration="20" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" x1="54" y1="39.998" x2="33" y2="60.998"/>
+<path data-async="" data-delay="25" data-duration="30" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" d="M63,45.603c0,0-9.99,1.568-17.349-6.663 s-5.944-20.287-0.277-26.613s17.479-11.233,28.969-1.884c5.449,5.475,5.932,9.555,5.932,9.555"/>
+<path data-async="" data-duration="150" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M62,19.998h89.834 M151.834,19.998H160 M63,20.998 v163 M64,182.998h33.781 M97.975,182.998H160 M159,181.998v-161"/>
+<line data-async="" data-duration="10" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" x1="106" y1="28.998" x2="116" y2="28.998"/>
+<path data-async="" data-duration="140" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M70,37.998h76.156 M146.156,37.998H152 M71,38.998 v128 M72,165.998h31.25 M103.617,165.998H152 M151,164.998v-126"/>
+<path data-async=""  data-duration="80" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M78,45.998h65.394 M79,46.998v29 M80,74.998h53"/>
+<path data-async="" data-delay="15" data-duration="80" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M80,46.998l54.688,24.471 M142,45.998l-62,28"/>
+<path data-async="" data-delay="5" data-duration="80" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M78,83.998h33 M78,97.998h33 M79,84.998v12 M110,84.998v12"/>
+<path data-async="" data-delay="5" data-duration="60" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M78,106.998h33 M78,120.998h33 M79,107.998v12 M110,107.998v12"/>
+<path data-async="" data-delay="5" data-duration="70" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M78,129.998h33 M78,143.998h33 M79,130.998v12 M110,130.998v12"/>
+<path data-async="" data-delay="5" data-duration="80" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M106,171.998h10 M106,177.998h10 M117,170.998v8 M105,170.998v8"/>
+<line data-async="" data-duration="40" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" x1="155.889" y1="8.288" x2="95.111" y2="191.708"/>
+<path data-async="" data-duration="60" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" d="M143,151.998c0,3.313-2.687,6-6,6s-6-2.687-6-6 s2.687-6,6-6S143,148.685,143,151.998z M137,148.998v6 M134,151.998h6"/>
+</svg>

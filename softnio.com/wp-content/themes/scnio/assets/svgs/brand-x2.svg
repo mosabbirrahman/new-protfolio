@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="nio-x2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="108px" viewBox="0 0 144 108" enable-background="new 0 0 144 108" xml:space="preserve">
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M29,30.25h10 M34,25.25	v10"/>
+	<path opacity="0.7" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M98,11.5h7 M101.5,8v7"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M130,73.25h10 M135,68.25v10"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M46,8.25c0,1.381-1.119,2.5-2.5,2.5S41,9.631,41,8.25 s1.119-2.5,2.5-2.5S46,6.869,46,8.25z"/>
+	<circle opacity="0.5" fill="#00FFFF" cx="116.5" cy="32.75" r="2.5"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M12,54.25c0,2.21-1.79,4-4,4s-4-1.79-4-4s1.79-4,4-4 S12,52.04,12,54.25z"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M119,87.75c0,1.381-1.119,2.5-2.5,2.5 s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S119,86.369,119,87.75z"/>
+	<circle opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="14" cy="19.25" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-linecap="round" stroke-miterlimit="10" d="M36.345,72.598L44.92,62.25 M36,77.771l8.576-10.349 M50,65.2l-8.576,10.347"/>
+	<polygon opacity="0.4" fill="#00FFFF" points="84.5,21.921 85.581,24.113 88,24.464 86.25,26.17 86.663,28.579 84.5,27.441 82.337,28.579 82.75,26.17 81,24.464 83.419,24.113 	"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M140,12.25c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S140,11.146,140,12.25z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M19,76.25c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S19,75.146,19,76.25z"/>
+	<path opacity="0.1" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5" d="M110.781,41.304c13.639,26.683-4.33,48.925-4.33,48.925 M35.323,90.229c0,0-17.97-22.242-4.331-48.925 M44,25.006	c0,0,28.703-23.991,59,0.891"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M103,95.25h36"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="21,5,100" d="M6,95.25h44"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,50,5" d="M14,102.25h72"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="101" y1="55" x2="74" y2="55"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M79,48h22 M100,47v9 M91,43h2 M95,43h2 M99,43h2"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M105,86H94 M75,38h32 M106,37v49 M57,95v-8 M95,94 H57 M95,95V85 M96.103,94.25l9.795-8"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M66,81h8 M73,80v7 M74,86h-8 M67,87v-7"/>
+	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M76,80.5h23 M76,82.5h19 M76,84.5h15"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M66,71h8 M73,70v7 M74,76h-8 M67,77v-7"/>
+	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M76,70.5h23 M76,72.5h19 M76,74.5h15"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M66,61h8 M73,60v7 M74,66h-8 M67,67v-7"/>
+	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M76,60.5h23 M76,62.5h19 M76,64.5h15"/>
+	<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="56.594" cy="43.037" r="15.413"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M58,68h-2 M58,76h-2 M58,72h-2 M53.956,80.893	c0,0-0.267,3.375,2.999,3.359c0,0,3.001,0.095,3.001-3.359 M54,81V59 M60,81V59"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M60,36H49 M50,35v15 M49,49h15 M63,50V40"/>
+	<polyline fill="none" stroke="#00FFFF" stroke-miterlimit="10" points="61.199,38.314 54.626,45.5 54.595,45.5 52.462,43.009"/>
+</svg>

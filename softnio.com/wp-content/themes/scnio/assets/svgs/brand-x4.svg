@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="nio-x4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="108px" viewBox="0 0 144 108" enable-background="new 0 0 144 108" xml:space="preserve">
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M130.5,84.63h10 M135.5,79.63v10"/>
+	<path opacity="0.7" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M124,15.5h7 M127.5,12v7"/>
+	<path  opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M3.5,31.13h10 M8.5,26.13v10"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M32,10.63c0,1.381-1.119,2.5-2.5,2.5	s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S32,9.249,32,10.63z"/>
+	<circle opacity="0.5" fill="#00FFFF" cx="84.5" cy="12.63" r="2.5"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M20,84.63c0,1.381-1.119,2.5-2.5,2.5	s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S20,83.249,20,84.63z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M5.5,96.13h50"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,65,5,10" d="M50.5,103.13h90"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M34.5,62.13c0,1.105-0.896,2-2,2s-2-0.895-2-2	c0-1.104,0.896-2,2-2S34.5,61.026,34.5,62.13z"/>
+	<circle opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="111.5" cy="95.13" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-linecap="round" stroke-miterlimit="10" d="M70.844,56.958l8.576-10.349 M70.5,62.13l8.576-10.349 M84.5,49.56l-8.577,10.347"/>
+	<polygon opacity="0.4" fill="#00FFFF" points="110.293,25.13 111.374,27.321 113.793,27.672 112.043,29.378 112.456,31.787 110.293,30.649 108.13,31.787 108.543,29.378 106.793,27.672 109.212,27.321 	"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M60.5,24.13c0,1.104-0.896,2-2,2s-2-0.896-2-2	s0.896-2,2-2S60.5,23.025,60.5,24.13z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M107.5,6.87c0,1.104-0.896,2-2,2s-2-0.896-2-2	s0.896-2,2-2S107.5,5.766,107.5,6.87z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M138.5,48.13c0,1.104-0.896,2-2,2s-2-0.896-2-2 s0.896-2,2-2S138.5,47.025,138.5,48.13z"/>
+	<path opacity="0.1" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5" d="M111.281,42.184c13.639,26.683-4.33,48.925-4.33,48.925 M35.823,91.108c0,0-17.97-22.242-4.331-48.925 M43.5,25.886 c0,0,28.703-23.991,59,0.891"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M81.549,71.13l-19.636,9l-18.163-9.5"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M36,48h24 M59,48v22 M37,48v30 M36,77h6 M41,53h14"	/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M62,31h41 M63,97h36 M102,31v18 M63,31v39 M63,90v8 M63,41h39"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M81,90H42V70h39V90z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M68,36h29"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" d="M59,43H37V31h22V43z M44,38h2 M48,38h2 M52,38h2"/>
+	<path fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M99.5,87.13v-35 M105.5,87.13v-35 M99.5,87.253l3.048,6.877l2.952-6.877 M99.5,86.13h6 M99.5,52.13h6 M99.5,57.13h6"/>
+</svg>

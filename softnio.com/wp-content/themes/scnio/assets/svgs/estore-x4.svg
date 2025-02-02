@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="144px" height="108px" viewBox="0 0 144 108" enable-background="new 0 0 144 108" xml:space="preserve">
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" d="M129,35h10 M134,30v10"/>
+	<path opacity="0.7" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M18,62.5h7 M21.5,59v7"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M73.5,11c0,1.381-1.119,2.5-2.5,2.5 s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S73.5,9.619,73.5,11z"/>
+	<circle opacity="0.5" fill="#00FFFF" cx="55.5" cy="27" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M32.5,88c0,1.381-1.119,2.5-2.5,2.5 s-2.5-1.119-2.5-2.5s1.119-2.5,2.5-2.5S32.5,86.619,32.5,88z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,100" d="M4.5,96h26"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="15,5,100" d="M108.5,96h26"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" stroke-dasharray="5,5,65,5,15" d="M63.5,102H138"/>
+	<path opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M11.5,78c0,1.105-0.896,2-2,2s-2-0.895-2-2 c0-1.104,0.896-2,2-2S11.5,76.896,11.5,78z"/>
+	<circle opacity="0.5" fill="none" stroke="#00FFFF" stroke-miterlimit="10" cx="89" cy="33" r="2"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M115,85c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2	S115,83.896,115,85z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M20,8c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2 S20,6.896,20,8z"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M8.223,32.53 C8.33,28.237,11.977,28,11.977,28c1.166-8.372,8.502-4.529,8.502-4.529c1.469-4.144,5.696-3.969,5.696-3.969
+		c6.841,0.108,5.954,6.73,5.954,6.73c4.66,0.691,4.66,5.352,4.66,5.352c-0.431,4.575-5.092,4.917-5.092,4.917H13.402	C7.707,36.5,8.223,32.53,8.223,32.53z"/>
+	<path opacity="0.15" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M102.58,26.464 c0.082-3.282,2.873-3.464,2.873-3.464c0.889-6.403,6.501-3.464,6.501-3.464c1.124-3.168,4.356-3.035,4.356-3.035 c5.231,0.083,4.553,5.146,4.553,5.146c3.566,0.529,3.566,4.093,3.566,4.093c-0.33,3.499-3.896,3.76-3.896,3.76h-13.99 C102.186,29.5,102.58,26.464,102.58,26.464z"/>
+	<path opacity="0.2" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M104.788,41.524		c0,0,4.657-0.697,7.23,5.382c0.339,0,4.592-2.858,7.976,0.987c0,0,1.825,1.744,1.758,5.763c0,0,4.276,0.135,4.459,5.536	c0,0,0.151,4.156-3.85,5.307h-17.573"/>
+	<path opacity="0.3" fill="none" stroke="#00FFFF" stroke-miterlimit="10" d="M88,14.5h8 M7,46.5h8 M68,30.5h8 M42,20.5h8 M116,78.5	h8"/>
+
+	<rect x="68" y="41" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="36" height="57"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="69" y1="49" x2="105" y2="49"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="69" y1="91" x2="105" y2="91"/>
+	<circle fill="none" stroke="#FFFFFF" stroke-miterlimit="10" cx="73.666" cy="45" r="1"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="81.5" y1="48" x2="81.5" y2="45"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="81" y1="45.5" x2="91" y2="45.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="90.5" y1="45" x2="90.5" y2="49"/>
+	<rect x="72" y="53" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="78" y1="57" x2="81" y2="57"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="83" y1="57" x2="86" y2="57"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="88" y1="57" x2="91" y2="57"/>
+	<line fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" x1="73" y1="69" x2="76" y2="69"/>
+	<line fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" x1="78" y1="69" x2="81" y2="69"/>
+	<line fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" x1="83" y1="69" x2="96" y2="69"/>
+	<polyline fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" points="93,73.125 98,69 93,64.875"/>
+	<line fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" x1="73" y1="75" x2="83" y2="75"/>
+	<line fill="none" stroke="#00FFFF" stroke-width="2" stroke-miterlimit="10" x1="73" y1="79" x2="83" y2="79"/>
+	<defs><rect id="maskx1" x="36" y="39" width="30" height="63"/></defs>
+	<clipPath id="maskx2"><use xlink:href="#maskx1"  overflow="visible"/></clipPath>
+	<g clip-path="url(#maskx2)">
+		<rect x="38" y="41" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="36" height="57"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="74" y1="49" x2="38" y2="49"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="74" y1="91" x2="38" y2="91"/>
+		<circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="71.334" cy="44.5" r="1"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="61.5" y1="48" x2="61.5" y2="45"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="62" y1="45.5" x2="51" y2="45.5"/>
+		<line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="51.5" y1="45" x2="51.5" y2="49"/>
+		<rect x="46" y="53" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="24" height="8"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="65" y1="57" x2="62" y2="57"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="60" y1="57" x2="57" y2="57"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="55" y1="57" x2="52" y2="57"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="70" y1="69" x2="67" y2="69"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="65" y1="69" x2="62" y2="69"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="60" y1="69" x2="47" y2="69"/>
+		<polyline fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="51.608,72.6 46.608,68.476 51.608,64.352"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="70" y1="75" x2="60" y2="75"/>
+		<line fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" x1="70" y1="79" x2="60" y2="79"/>
+	</g>
+</svg>

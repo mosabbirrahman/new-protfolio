@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="nioweb" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="192px" height="192px" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
+<path data-async="" data-duration="150" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M90,59H15 M16,58v104 M15,163h158 M174,164V96 M84,163v11.003 M106,163v11.003 M137,175H53 M137,182H53 M137,174v9.118 M53,174v9.118"/>
+<path data-async="" data-duration="150" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M91,27h97 M91,36h97 M139,95h50 M91,26v52 M189,26 v70"/>
+<path data-async="" data-duration="150" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M53,79h84 M53,88h84 M53,139h84 M52,78v62 M138,78 v62"/>
+<path data-async="" data-delay="25" data-duration="100" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M4.042,79h23 M4.042,97h23 M3.042,78v20 M28.042,78 v20"/>
+<defs><rect data-async="" id="mask1" x="2" y="78" width="27.083" height="20"/></defs>
+<clipPath data-async="" id="mask2"><use xlink:href="#mask1"  overflow="visible"/></clipPath>
+<line data-async="" data-delay="5" data-duration="30" clip-path="url(#mask2)" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" x1="8.905" y1="100.334" x2="22.666" y2="75.508"/>
+<path data-async="" data-delay="5" data-duration="30" fill="none" stroke="#2196F3" stroke-width="1.5" stroke-miterlimit="10" d="M24.37,84l3.672,3.999L24.37,92"/>
+<path data-async="" data-delay="5" data-duration="30" fill="none" stroke="#2196F3" stroke-width="1.5" stroke-miterlimit="10" d="M6.715,84l-3.673,3.999L6.715,92"/>
+<path data-async="" data-delay="10" data-duration="60" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" d="M62,99h14 M81,99h9 M95,99h14 M114,99h15"/>
+<path data-async="" data-delay="5" data-duration="60" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M62,105h7 M74,105h13 M92,105h14 M111,105h7 M123,105h6"/>
+<path data-async="" data-delay="5" data-duration="60" fill="none" stroke="#B0BEC5" stroke-width="2" stroke-miterlimit="10" d="M62,111h18 M85,111h9 M99,111h11 M115,111h6"/>
+<path data-async="" data-delay="5" data-duration="60" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" d="M62,117h23.833 M91,117h8 M104,117h17"/>
+<path data-async="" data-delay="5" data-duration="60" fill="none" stroke="#2196F3" stroke-width="2" stroke-miterlimit="10" d="M62,123h11 M78,123h10 M93,123h13"/>
+</svg>

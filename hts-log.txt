@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Feb 2025 23:34:56 at https://softnio.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://softnio.com/ -O1 "C:\My Web Sites\protfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:35:12	Error: 	"Forbidden" (403) at link https://softnio.com/xmlrpc.php (from https://softnio.com/)
+23:35:28	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/2 (from https://softnio.com/)
+23:36:57	Error: 	"Bad Request" (400) at link https://softnio.com/wp-admin/admin-ajax.php (from https://softnio.com/)
+23:36:57	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/7 (from https://softnio.com/about/)
+23:36:57	Warning: 	Moved Permanently for https://softnio.com/?p=7
+23:36:57	Warning: 	File has moved from https://softnio.com/?p=7 to https://softnio.com/about/
+23:36:57	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/11 (from https://softnio.com/what-we-do/)
+23:36:57	Warning: 	Moved Permanently for https://softnio.com/?p=11
+23:36:57	Warning: 	File has moved from https://softnio.com/?p=11 to https://softnio.com/what-we-do/
+23:36:57	Warning: 	Moved Permanently for https://softnio.com/what-we-do/website-design/
+23:36:57	Warning: 	File has moved from https://softnio.com/what-we-do/website-design/ to https://softnio.com/what-we-do/websites-design/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/99 (from https://softnio.com/what-we-do/web-development/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=99
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=99 to https://softnio.com/what-we-do/web-development/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/98 (from https://softnio.com/what-we-do/websites-design/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=98
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=98 to https://softnio.com/what-we-do/websites-design/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/100 (from https://softnio.com/what-we-do/ecommerce-website/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=100
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=100 to https://softnio.com/what-we-do/ecommerce-website/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/102 (from https://softnio.com/what-we-do/ui-ux-design/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=102
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=102 to https://softnio.com/what-we-do/ui-ux-design/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/108 (from https://softnio.com/what-we-do/branding-design/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=108
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=108 to https://softnio.com/what-we-do/branding-design/
+23:36:58	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/14 (from https://softnio.com/career/)
+23:36:58	Warning: 	Moved Permanently for https://softnio.com/?p=14
+23:36:58	Warning: 	File has moved from https://softnio.com/?p=14 to https://softnio.com/career/
+23:36:59	Error: 	"Unauthorized" (401) at link https://softnio.com/wp-json/wp/v2/pages/15 (from https://softnio.com/contact/)
+23:36:59	Warning: 	Moved Permanently for https://softnio.com/?p=15
+23:36:59	Warning: 	File has moved from https://softnio.com/?p=15 to https://softnio.com/contact/
+23:36:59	Warning: 	Link https://softnio.com/contact-to-buy/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 3 seconds : 184 links scanned, 161 files written (8079151 bytes overall) [6475288 bytes received at 52644 bytes/sec], 2576348 bytes transferred using HTTP compression in 134 files, ratio 28%, 14.8 requests per connection
+(12 errors, 21 warnings, 0 messages)
